@@ -742,7 +742,7 @@
     (in_bom yes) (on_board yes)
     (uuid c0ff83d0-1efb-414c-9a85-df15e9264609)
     (property "Reference" "RTC1" (id 0) (at 106.68 103.6193 0))
-    (property "Value" "DS1307+" (id 1) (at 106.68 101.6 0))
+    (property "Value" "DS1307" (id 1) (at 106.68 101.6 0))
     (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 99.06 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -821,7 +821,7 @@
     (property "Reference" "D1" (id 0) (at 87.63 85.0899 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "DHT11" (id 1) (at 87.63 87.6299 0)
+    (property "Value" "DHT22" (id 1) (at 87.63 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm" (id 2) (at 93.98 96.52 0)
@@ -845,7 +845,7 @@
       (reference "BT1") (unit 1) (value "Batt & LiPoCircuit") (footprint "")
     )
     (path "/fb1dad8f-8fc5-4d24-9f54-cdbdc7f495ca"
-      (reference "D1") (unit 1) (value "DHT11") (footprint "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm")
+      (reference "D1") (unit 1) (value "DHT22") (footprint "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm")
     )
     (path "/c61d9cfd-3c6c-4cef-b391-3c91f4c112fa"
       (reference "P1") (unit 1) (value "Pico W") (footprint "RPi_Pico:RPi_Pico_SMD_TH")
@@ -854,7 +854,7 @@
       (reference "R1") (unit 1) (value "10K") (footprint "")
     )
     (path "/c0ff83d0-1efb-414c-9a85-df15e9264609"
-      (reference "RTC1") (unit 1) (value "DS1307+") (footprint "Package_DIP:DIP-8_W7.62mm")
+      (reference "RTC1") (unit 1) (value "DS1307") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/24fe6738-bcab-4c17-a742-3dfbdd5dd12c"
       (reference "UV1") (unit 1) (value "GYML8511") (footprint "")

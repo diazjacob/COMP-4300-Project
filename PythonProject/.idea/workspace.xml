@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5b20a89-705d-4d62-829c-c7ae3458ac3d" name="Default Changelist" comment="" />
+    <list default="true" id="c5b20a89-705d-4d62-829c-c7ae3458ac3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../READ ME FIRST.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../READ ME FIRST.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schematics/Pico_Sensor_Array/Pico_Sensor_Array.kicad_sch" beforeDir="false" afterPath="$PROJECT_DIR$/../Schematics/Pico_Sensor_Array/Pico_Sensor_Array.kicad_sch" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +21,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MicroPythonDevices" devicePath="COM6" />
   <component name="ProjectId" id="2IYeCH5IRKE6vBv057v1Mo2yDEl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SLIDER_PY" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.micropython.configurable" />
   </component>
   <component name="RunManager" selected="MicroPython.Flash main.py">
@@ -75,6 +86,7 @@
       <workItem from="1670650138983" duration="509000" />
       <workItem from="1670650705519" duration="50000" />
       <workItem from="1670650995873" duration="13312000" />
+      <workItem from="1671051735679" duration="1323000" />
     </task>
     <servers />
   </component>
@@ -98,26 +110,30 @@
       <screen x="1920" y="-433" width="1080" height="1880" />
     </state>
     <state x="2240" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@1920.-433.1080.1880" timestamp="1670659581774" />
-    <state width="1037" height="526" key="GridCell.Tab.0.bottom" timestamp="1670727688800">
-      <screen x="1920" y="-433" width="1080" height="1880" />
+    <state width="894" height="573" key="GridCell.Tab.0.bottom" timestamp="1671053058992">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1670608454633" />
+    <state width="894" height="573" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1671053058992" />
     <state width="1037" height="526" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@1920.-433.1080.1880" timestamp="1670727688800" />
-    <state width="1037" height="526" key="GridCell.Tab.0.center" timestamp="1670727688800">
-      <screen x="1920" y="-433" width="1080" height="1880" />
+    <state width="894" height="573" key="GridCell.Tab.0.center" timestamp="1671053058991">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1670608454633" />
+    <state width="894" height="573" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1671053058991" />
     <state width="1037" height="526" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@1920.-433.1080.1880" timestamp="1670727688800" />
-    <state width="1037" height="526" key="GridCell.Tab.0.left" timestamp="1670727688800">
-      <screen x="1920" y="-433" width="1080" height="1880" />
+    <state width="894" height="573" key="GridCell.Tab.0.left" timestamp="1671053058991">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1670608454633" />
+    <state width="894" height="573" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1671053058991" />
     <state width="1037" height="526" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@1920.-433.1080.1880" timestamp="1670727688800" />
-    <state width="1037" height="526" key="GridCell.Tab.0.right" timestamp="1670727688800">
-      <screen x="1920" y="-433" width="1080" height="1880" />
+    <state width="894" height="573" key="GridCell.Tab.0.right" timestamp="1671053058991">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1670608454633" />
+    <state width="894" height="573" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1671053058991" />
     <state width="1037" height="526" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@1920.-433.1080.1880" timestamp="1670727688800" />
+    <state x="1266" y="234" key="RollbackChangesDialog" timestamp="1671051854795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1266" y="234" key="RollbackChangesDialog/0.0.1920.1040/-1920.0.1920.1040/1920.-433.1080.1880@0.0.1920.1040" timestamp="1671051854795" />
     <state x="2002" y="-140" key="SettingsEditor" timestamp="1670650633476">
       <screen x="1920" y="-433" width="1080" height="1880" />
     </state>
