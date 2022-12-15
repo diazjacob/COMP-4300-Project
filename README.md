@@ -27,9 +27,9 @@ The tools/libs used in this project are:
 
 **./App/Pico App/Assets/** - Holds all Unity project assets
 
-**./App/Pico App/Assets/NetworkManager.cs** - The core Networking implementation for the app, created by Jacob Diaz
+**./App/Pico App/Assets/NetworkManager.cs** - The core Networking implementation for the app
 
-**./App/Pico App/Assets/UIManager.cs** - The manager for the app's UI, created by Jacob Diaz
+**./App/Pico App/Assets/UIManager.cs** - The manager for the app's UI
 
 **./PythonProject/** - The directory holding the Pico MicroPython project.
 
