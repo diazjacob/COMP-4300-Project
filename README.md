@@ -25,7 +25,7 @@ The tools/libs used in this project are:
 
 **./App/** - The directory holding the Unity Android mobile app project
 
-**./App/Pico App/Assets** - Holds all Unity project assets
+**./App/Pico App/Assets/** - Holds all Unity project assets
 
 **./App/Pico App/Assets/NetworkManager.cs** - The core Networking implementation for the app, created by Jacob Diaz
 
